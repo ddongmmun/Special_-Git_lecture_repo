@@ -1,2 +1,2 @@
-# Special_-Git_lecture_repo
+# 자기소개하기
 dfdf
